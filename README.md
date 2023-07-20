@@ -1,5 +1,6 @@
 # ERGPT
- Project for 2023 KHIDI Public Data Usage Idea Contest
+OpenAI API-based application to address the delay in transporting emergency patients
+Project for 2023 KHIDI Public Data Usage Idea Contest
 
 # **[Eng]**  
 ## 🔎 Problem Definition
